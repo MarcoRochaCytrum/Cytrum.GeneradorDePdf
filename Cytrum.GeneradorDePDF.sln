@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cytrum.GeneradorDePDF", "Workers\Cytrum.GeneradorDePDF\Cytrum.GeneradorDePDF.csproj", "{40AB73BC-7C41-4175-84CD-C77B281120EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cytrum.Core", "Cytrum.Core\Cytrum.Core.csproj", "{949D9B13-284C-4A66-A478-9B2896C32C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cytrum.PDFGenericoCFDI", "Cytrum.PDFGenericoCFDI\Cytrum.PDFGenericoCFDI.csproj", "{70389854-D37C-4DBC-BB28-688EEE2EEEA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cytrum.PDF4", "Cytum.PDF4\Cytrum.PDF4.csproj", "{D3EA0E12-72F8-4290-AEFB-7B14B8BA7FB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workers", "Workers", "{A125AEF7-C426-408E-BF9A-00C62D8969E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AB73BC-7C41-4175-84CD-C77B281120EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AB73BC-7C41-4175-84CD-C77B281120EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AB73BC-7C41-4175-84CD-C77B281120EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AB73BC-7C41-4175-84CD-C77B281120EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949D9B13-284C-4A66-A478-9B2896C32C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949D9B13-284C-4A66-A478-9B2896C32C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949D9B13-284C-4A66-A478-9B2896C32C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949D9B13-284C-4A66-A478-9B2896C32C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70389854-D37C-4DBC-BB28-688EEE2EEEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70389854-D37C-4DBC-BB28-688EEE2EEEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70389854-D37C-4DBC-BB28-688EEE2EEEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70389854-D37C-4DBC-BB28-688EEE2EEEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EA0E12-72F8-4290-AEFB-7B14B8BA7FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EA0E12-72F8-4290-AEFB-7B14B8BA7FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EA0E12-72F8-4290-AEFB-7B14B8BA7FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EA0E12-72F8-4290-AEFB-7B14B8BA7FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40AB73BC-7C41-4175-84CD-C77B281120EE} = {A125AEF7-C426-408E-BF9A-00C62D8969E5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F693EF81-2645-42C4-AA84-E1F541946B56}
+	EndGlobalSection
+EndGlobal

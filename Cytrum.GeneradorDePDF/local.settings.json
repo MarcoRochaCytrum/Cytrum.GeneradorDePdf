@@ -1,0 +1,7 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=asfacturacloudprueba;AccountKey=GKCeIm0fDXCx1Pf1kNyzOwoO+lZYzjqUTYNkyCkf/Uqzf3b2z8XzKvVdOYMj9JI88YkhKHFB/m9znSo1lTwJng==",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
